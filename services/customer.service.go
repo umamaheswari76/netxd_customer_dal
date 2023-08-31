@@ -2,9 +2,10 @@ package services
 
 import (
 	"context"
-	"github.com/umamaheswari76/netxd_customer_/interfaces"
-	"github.com/umamaheswari76/netxd_customer__dal/models"
 	"time"
+
+	"github.com/umamaheswari76/netxd_customer_dal/interfaces"
+	"github.com/umamaheswari76/netxd_customer_dal/models"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 
